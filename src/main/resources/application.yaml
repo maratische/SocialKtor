@@ -1,0 +1,6 @@
+ktor:
+  deployment:
+    port: 8088
+  application:
+    modules:
+      - maratische.socialktor.ApplicationKt.module
